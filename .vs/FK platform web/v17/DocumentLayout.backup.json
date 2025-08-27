@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|c:\\users\\rabie.benboubaker\\source\\repos\\fk platform web\\wwwroot\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|solutionrelative:wwwroot\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|c:\\users\\rabie.benboubaker\\source\\repos\\fk platform web\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|c:\\users\\rabie.benboubaker\\source\\repos\\fk platform web\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|solutionrelative:layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|c:\\users\\rabie.benboubaker\\source\\repos\\fk platform web\\wwwroot\\pages\\manufacturingprocessescomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|solutionrelative:wwwroot\\pages\\manufacturingprocessescomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|c:\\users\\rabie.benboubaker\\source\\repos\\fk platform web\\wwwroot\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|solutionrelative:wwwroot\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|c:\\users\\rabie.benboubaker\\source\\repos\\fk platform web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|c:\\users\\rabie.benboubaker\\source\\repos\\fk platform web\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|c:\\users\\rabie.benboubaker\\source\\repos\\fk platform web\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{205F79B0-4491-4233-8408-197ED3BA2E8D}|FK platform web.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 416,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManufacturingProcessesComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\Pages\\ManufacturingProcessesComponent.razor",
+              "RelativeDocumentMoniker": "wwwroot\\Pages\\ManufacturingProcessesComponent.razor",
+              "ToolTip": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\Pages\\ManufacturingProcessesComponent.razor",
+              "RelativeToolTip": "wwwroot\\Pages\\ManufacturingProcessesComponent.razor",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T12:43:52.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-08-22T09:48:26.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T09:27:48.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T09:25:20.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAANgBAAAAAAAAAAAIwP8BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-22T09:22:48.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T09:20:15.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "wwwroot\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\Pages\\Home.razor",
+              "RelativeToolTip": "wwwroot\\Pages\\Home.razor",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T09:19:50.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "wwwroot\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\Rabie.benboubaker\\source\\repos\\FK platform web\\wwwroot\\Pages\\Login.razor",
+              "RelativeToolTip": "wwwroot\\Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T09:03:51.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
