@@ -1,0 +1,64 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Rider IDE files
+.idea/
+
+# User-specific files
+*.rsuser
+*.sln.docstates
+
+# DotNet build folders
+*.dbmdl
+
+# Others
+*.log
+*.vspscc
+
+# Ignore publish folder
+publish/
+
+# Ignore NuGet packages folder
+*.nupkg
+packages/
+
+# Ignore Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore test results
+TestResults/
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Ignore config secrets (if you have any)
+secrets.json
+
+# Ignore environment variables files
+.env
+.env.local
+.env.*.local
+
+# Ignore npm node_modules if present (for full-stack projects)
+node_modules/
+
+# Ignore logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Ignore macOS files (if you work on mac)
+.DS_Store
+
+# Ignore Thumbs.db for Windows
+Thumbs.db

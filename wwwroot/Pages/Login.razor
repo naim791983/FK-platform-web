@@ -1,0 +1,31 @@
+﻿@page "/login"
+@inject NavigationManager Navigation
+
+<div>
+    <input placeholder="Username" @bind="username" />
+    <input type="password" placeholder="Password" @bind="password" />
+    <button @onclick="PerformLogin">Login</button>
+
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <p style="color:red">@errorMessage</p>
+    }
+</div>
+
+@code {
+    private string username = string.Empty;
+    private string password = string.Empty;
+    private string? errorMessage;
+
+    private void PerformLogin()
+    {
+        if (username == "PM ELCOM" && password == "1234")
+        {
+            Navigation.NavigateTo("/home");
+        }
+        else
+        {
+            errorMessage = "Username or Password incorrect.";
+        }
+    }
+}
